@@ -7,6 +7,12 @@
 服务端：`mongoose + express + socket.io`
 
 
+## 效果图
+
+<img src="./chatdemo.gif">
+
+
+
 ## 项目运行
 
 1. clone 项目到本地
